@@ -1,0 +1,141 @@
+:root {
+    --white: white;
+    --bg-gray: rgb(209, 210, 210);
+    --black: black;
+    --generic: linear-gradient(18deg, rgba(72,96,80,0.9976365546218487) 34%, rgba(99,208,161,1) 99%);
+}
+
+body, html {
+    height: 100%;
+}
+ 
+body {
+    margin: 0;
+    padding: 0;
+}
+  
+.mega-container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    background-color: var(--white);
+}
+
+.super-container {
+    margin-top: -56px;
+ }
+
+.item{
+    background: var(--bg-gray);
+    width: 1014px;
+    border: 2px solid var(--black);
+    margin-top: 8px;
+    margin-left: 13px;
+    margin-right: 14px;
+}
+
+.cont{
+    background: var(--bg-gray);
+    width: 65%;
+    justify-content:center;
+    display: flex;
+    margin-top: 21px;
+    margin-left: 17%;
+}
+
+.mega-tittle{
+    background-color: var(--black);
+}
+.title-view{
+    background: var(--generic);
+    color: var(--white);
+    width: 500px;
+    border-bottom-right-radius: 83px;
+    border-top-right-radius: 83px;
+    border-right: 2px solid var(--white);
+    display: flex;
+    justify-content: center;
+}
+
+.select{
+    height: 35px;
+    width: 436px;
+    margin-top: 5px;
+}
+
+.textarea{
+    height: 137px;
+    width: 435px;
+    margin-top: 5px;
+}
+.hide{
+    display: none;
+}
+.result{
+    text-align: left;
+    background: powderblue;
+    padding: 10px;
+    max-width: 413px;
+}
+
+.result-title{
+    text-align: center;
+}
+
+.result-text{
+    font-size: 17px;
+    font-weight: normal;
+}
+
+span{
+    color:red;
+}
+
+.make-tournament{
+    height: 60px;
+    width: 444px;
+    margin-top: 5px;
+    background: var(--generic);
+    color: var(--white);
+    font-size: 25px;
+    font-weight: bold;
+    font-family:serif;
+}
+
+.make-tournament:hover{
+    font-size: 30px;
+}
+
+fieldset{
+    border: none;
+}
+
+label{
+    text-transform: uppercase;
+    color: var(--black);
+    font-size: 20px;
+    font-weight: bold;
+    font-family:serif;
+}
+
+.neon {
+    animation: neonAnim 2s alternate-reverse infinite;
+    color: #FFFFFF;
+    font-family: Bahnschrift;
+    font-size: 29px;
+}
+@keyframes neonAnim {
+from {
+    text-shadow:
+      0 0 21px rgba(0, 0, 0, 0.7),
+      0 0 51px rgba(0, 0, 0, 0.7),
+      0 0 111px rgba(0, 0, 0, 0.7);
+  }
+  to {
+    text-shadow:
+      0 0 16px rgba(0, 0, 0, 0.7),
+      0 0 31px rgba(0, 0, 0, 0.7),
+      0 0 71px rgba(0, 0, 0, 0.7);
+  }
+}
