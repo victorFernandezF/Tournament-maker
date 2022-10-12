@@ -15,4 +15,4 @@ Add the name of the participants. The application will randomly choose the match
 - Enjoy.
 ````
 ## IMAGE
-![tm](/Torunament-maker/img/tm.webp?raw=true "tm") 
+![tm](/img/tm.webp?raw=true "tm") 
