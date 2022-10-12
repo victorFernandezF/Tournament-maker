@@ -1,8 +1,31 @@
-# TOURNAMENT MAKER
+# TOURNAMENT MAKER :trophy:
+## [Spanish]
+<hr/>
 
-## DESCRIPTION
+### DESCRIPCION
+Una aplicación web diseñada para realizar de forma aleatoria los primeros enfrentamientos de un torneo.
+El usuario untroduce el número de participantes iniciales (a elegir entre 4, 8 y 16) y a continuacion
+introduce los participantes. La aplicacion devolverá los enfrentamientos generados de forma aleatoria.
+
+### INFORMACION TÉCNICA
+- **¿Necesita base de datos?:** NO
+
+#### INSTALACIÓN
+````
+- Descarga el proyecto.
+- Súbelo a algun servidor web, (Por ejemplo Xampp).
+- Abrelo con tu navegador web y disfruta crendo torneos.
+````
+### IMAGEN DE MUESTRA
+![tm](/img/tm.webp?raw=true "tm")
+
+<hr/>
+
+## [ENGLISH]
+<hr/>
+### DESCRIPTION
 A web application very usefull to generate the matches of the first stage of a tournament.   
-The user only have to select the number or participants (4,8 or 16) And
+The user only have to select the number or participants (4, 8 or 16) And
 Add the name of the participants. The application will randomly choose the matches between the participants.
 
 ## TECNICAL INFO
