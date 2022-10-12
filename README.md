@@ -14,10 +14,15 @@ introduce los participantes. La aplicacion devolverá los enfrentamientos genera
 ````
 - Descarga el proyecto.
 - Súbelo a algun servidor web, (Por ejemplo Xampp).
-- Abrelo con tu navegador web y disfruta crendo torneos.
+- Ábrelo con tu navegador web y disfruta crendo torneos.
 ````
-### IMAGEN DE MUESTRA
+#### Contacto
+Si tienes alguna duda, problema o sugerencia, puedes contactarme
+:mail: Correo electrónico: victorfernandezflores2@gmail.com
+
+#### IMAGEN DE MUESTRA
 ![tm](/img/tm.webp?raw=true "tm")
+
 
 <hr/>
 
