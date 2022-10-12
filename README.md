@@ -5,20 +5,20 @@
 ### DESCRIPCION
 Una aplicación web diseñada para realizar de forma aleatoria los primeros enfrentamientos de un torneo.
 El usuario untroduce el número de participantes iniciales (a elegir entre 4, 8 y 16) y a continuacion
-introduce los participantes. La aplicacion devolverá los enfrentamientos generados de forma aleatoria.
+introduce los participantes. La aplicacion devolverá los enfrentamientos generados aleatoriamente.
 
 ### INFORMACION TÉCNICA
 - **¿Necesita base de datos?:** NO
 
-### INSTALACIÓN
+#### INSTALACIÓN
 ````
 - Descarga el proyecto.
 - Súbelo a algun servidor web, (Por ejemplo Xampp).
 - Ábrelo con tu navegador web y disfruta crendo torneos.
 ````
 ### Contacto
-Si tienes alguna duda, problema o sugerencia, puedes contactarme
-:Email: victorfernandezflores2@gmail.com
+Si tienes alguna duda, problema o sugerencia, puedes contactarme.  
+:email: victorfernandezflores2@gmail.com
 
 ### IMAGEN DE MUESTRA
 ![tm](/img/tm.webp?raw=true "tm")
@@ -36,14 +36,14 @@ Add the name of the participants. The application will randomly choose the match
 ### TECNICAL INFO
 - **¿Database needed?:** NO
 
-### INSTALLATION
+#### INSTALLATION
 ````
 - Download the Project and copy it to a server (for example xampp)
 - open it with your web browser.
 - Enjoy.
 ````
 ### Contact
-If you have any problem You can contact me.
+If you have any problem You can contact me.   
 :email: victorfernandezflores2@gmail.com
 ### IMAGE
 ![tm](/img/tm.webp?raw=true "tm") 
