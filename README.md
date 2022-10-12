@@ -15,4 +15,4 @@ Add the name of the participants. The application will randomly choose the match
 - Enjoy.
 ````
 ## IMAGE
-![Employee data](/Torunament-maker/img/tournament_maker.webp?raw=true "TM")
+![tm](/Torunament-maker/img/tm.webp?raw=true "tm")
